@@ -1,8 +1,5 @@
 package ru.netology.service;
 
-//import junit.framework.TestCase;
-// extends TestCase
-
 import org.junit.Assert;
 import org.junit.Test;
 
